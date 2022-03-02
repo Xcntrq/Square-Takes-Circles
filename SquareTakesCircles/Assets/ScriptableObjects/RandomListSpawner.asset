@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5226bed522e9ba940918591ac2dd09fd, type: 3}
+  m_Name: RandomListSpawner
+  m_EditorClassIdentifier: 
+  _spawnableGameObjects:
+  - {fileID: 7356304070127845976, guid: e8d16d3b11b9318418c7fcd354f716c8, type: 3}
+  _desiredAmount: 5
+  _minDistance: 1
+  _objectsCollected: {fileID: 11400000, guid: a1b30d927a0f0364aaa9c3dfc93fdc3b, type: 2}

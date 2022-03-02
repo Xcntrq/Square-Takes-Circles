@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db29e3f67147aa46bafe755f0a79802, type: 3}
+  m_Name: SingleObjectSpawner
+  m_EditorClassIdentifier: Assembly-CSharp::SingleObject
+  _spawnableGameObject: {fileID: 9054074059310794724, guid: bd5032967c2bb0e41b17397f31d03c25, type: 3}
